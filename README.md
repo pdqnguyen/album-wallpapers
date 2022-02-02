@@ -6,7 +6,7 @@ Script for randomly generating desktop wallpapers tiled with album covers
 ### Usage
 
 ```
-main.py <source directory> <output directory>
+python main.py <source directory> <output directory>
 ```
 
 Source directory should contain images in `.jpg` and `.png` format.
